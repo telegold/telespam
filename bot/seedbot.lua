@@ -220,7 +220,8 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(150127969
+    sudo_users = {110626080,103649648,0,tonumber(161569578
+
 )},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
